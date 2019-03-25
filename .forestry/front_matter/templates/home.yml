@@ -1,4 +1,13 @@
 ---
 label: home
 hide_body: true
-fields: []
+fields:
+- type: text
+- type: file
+  name: upload
+  label: upload
+  description: upload whatever
+- type: field_group
+  name: test
+  label: test
+  description: test
