@@ -1,6 +1,7 @@
 ---
 label: home
 hide_body: true
+display_field: upload
 fields:
 - type: text
 - type: file
